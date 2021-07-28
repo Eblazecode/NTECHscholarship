@@ -138,7 +138,7 @@
                               secondary certificate(SSCE, O-level) to get along during the training.
                               It's an immense opportunity for anyone who's ready to take start or switch career
                               path to IT.
-                              It's  highly recommended for students in secondary schools, tertiary institution
+                              It's  highly recommended for students in secondary schools, tertiary institutions
                           and graduates alike</p>
                           <h6>Please come along with an internet enable device  such as;
                           smartphones, laptops or tablet</h6>
@@ -217,6 +217,7 @@
                                   <li><span class="uk-margin-small-right" data-uk-icon="star"></span>Topnotch learning facilities</li>
                                   <li><span class="uk-margin-small-right" data-uk-icon="heart"></span>flexible learning schedule</li>
                                   <li><span class="uk-margin-small-right" data-uk-icon="file-text"></span>Certificate of completion</li>
+                                  <li><span class="uk-margin-small-right" data-uk-icon="git-branch"></span>Talent outsourcing</li>
                                   <li><span class="uk-margin-small-right" data-uk-icon="star"></span>professional exams</li>
                               </ul>
 
