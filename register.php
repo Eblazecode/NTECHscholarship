@@ -240,8 +240,8 @@
                       software engineering, data science ,
                        and leadership skills, combined with practical
                       exposure through real-life projects and
-                      corporate placements. We ensure that our devs are enabled to
-                      launch their carer in software development successfully..</p>
+                      corporate placements. We ensure that our IT talents are enabled to
+                      launch their career in software development successfully..</p>
               </div>
           </div>
       </div>
