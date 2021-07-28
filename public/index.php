@@ -108,7 +108,7 @@
                                                   <ul class="uk-list uk-margin-small-top">
                                                       <li> Networking /CCNA</li>
                                                       <li> hardware engineering</li>
-                                                      <li> ComptiaA+ </li>
+                                                      <li> Data science </li>
                                                       <li> Graphics Design </li>
                                                   </ul>
                                               </div>
@@ -140,13 +140,13 @@
                               path to IT.
                               It's  highly recommended for students in secondary schools, tertiary institution
                           and graduates alike</p>
-                          <h5>Please come along with an internet enable device  such as;
-                          smartphones, laptops or tablet</h5>
+                          <h6>Please come along with an internet enable device  such as;
+                          smartphones, laptops or tablet</h6>
                       </div>
 
                           <h3>FAQs</h3>
                           <ul class="uk-margin-top" data-uk-accordion="multiple: true" id="faqs">
-                              <li class="uk-open">
+                              <li>
                                   <a class="uk-accordion-title" href="#">What is the  scholarship time and venue ? </span></a>
                                   <div class="uk-accordion-content">
                                       The information regards the scholarship time and venue will
@@ -154,7 +154,7 @@
                                       Ensure you have a working email
                                   </div>
                               </li>
-                              <li class="uk-open">
+                              <li>
                                   <a class="uk-accordion-title" href="#">Will i be asked computer/IT based questions ? </span></a>
                                   <div class="uk-accordion-content">
                                       They are simple aptitude test, general knowledge and current affairs questions
@@ -246,185 +246,11 @@
           </div>
       </div>
 
-      <!--<div class="uk-section uk-section-muted">
-          <div class="uk-container">
-              <h3>Other Courses You May Like</h3>
-              <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-margin-medium-top" data-uk-grid>
-                  <div>
-                      <div class="uk-card uk-card-small uk-card-default uk-card-hover uk-border-rounded-large uk-overflow-hidden">
-                          <div class="uk-card-media-top uk-inline uk-light">
-                              <img src="https://source.unsplash.com/gMsnXqILjp4/640x380" alt="Course Title">
-                              <div class="uk-position-cover uk-overlay-xlight"></div>
-                              <div class="uk-position-small uk-position-top-left">
-                                  <span class="uk-label uk-text-bold uk-text-price">$27.00</span>
-                              </div>
-                              <div class="uk-position-small uk-position-top-right">
-                                  <a href="#" class="uk-icon-button uk-like uk-position-z-index uk-position-relative" data-uk-icon="heart"></a>
-                              </div>
-                          </div>
-                          <div class="uk-card-body">
-                              <h3 class="uk-card-title uk-margin-small-bottom">Business Presentation Course</h3>
-                              <div class="uk-text-muted uk-text-small">Thomas Haller</div>
-                              <div class="uk-text-muted uk-text-xxsmall uk-rating uk-margin-small-top">
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-margin-small-left uk-text-bold">5.0</span>
-                                  <span>(324)</span>
-                              </div>
-                          </div>
-                          <a href="course.html" class="uk-position-cover"></a>
-                      </div>
-                  </div>
-                  <div>
-                      <div class="uk-card uk-card-small uk-card-default uk-card-hover uk-border-rounded-large uk-overflow-hidden">
-                          <div class="uk-card-media-top uk-inline uk-light">
-                              <img src="https://source.unsplash.com/JtV6zyOZSrA/640x380" alt="Course Title">
-                              <div class="uk-position-cover uk-overlay-xlight"></div>
-                              <div class="uk-position-small uk-position-top-left">
-                                  <span class="uk-label uk-text-bold uk-text-price">$39.00</span>
-                              </div>
-                              <div class="uk-position-small uk-position-top-right">
-                                  <a href="#" class="uk-icon-button uk-like uk-position-z-index uk-position-relative" data-uk-icon="heart"></a>
-                              </div>
-                          </div>
-                          <div class="uk-card-body">
-                              <h3 class="uk-card-title uk-margin-small-bottom">Outdoor Portrait Photography</h3>
-                              <div class="uk-text-muted uk-text-small">Jannet Wilkins</div>
-                              <div class="uk-text-muted uk-text-xxsmall uk-rating uk-margin-small-top">
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-margin-small-left uk-text-bold">4.0</span>
-                                  <span>(6,650)</span>
-                              </div>
-                          </div>
-                          <a href="course.html" class="uk-position-cover"></a>
-                      </div>
-                  </div>
-                  <div>
-                      <div class="uk-card uk-card-small uk-card-default uk-card-hover uk-border-rounded-large uk-overflow-hidden">
-                          <div class="uk-card-media-top uk-inline uk-light">
-                              <img src="https://source.unsplash.com/442btOpRp9Q/640x380" alt="Course Title">
-                              <div class="uk-position-cover uk-overlay-xlight"></div>
-                              <div class="uk-position-small uk-position-top-left">
-                                  <span class="uk-label uk-text-bold uk-text-price">$19.00</span>
-                              </div>
-                              <div class="uk-position-small uk-position-top-right">
-                                  <a href="#" class="uk-icon-button uk-like uk-position-z-index uk-position-relative" data-uk-icon="heart"></a>
-                              </div>
-                          </div>
-                          <div class="uk-card-body">
-                              <h3 class="uk-card-title uk-margin-small-bottom">Creating Digital Artwork on Tablet</h3>
-                              <div class="uk-text-muted uk-text-small">Chris Jenkins</div>
-                              <div class="uk-text-muted uk-text-xxsmall uk-rating uk-margin-small-top">
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-margin-small-left uk-text-bold">4.0</span>
-                                  <span>(6,650)</span>
-                              </div>
-                          </div>
-                          <a href="course.html" class="uk-position-cover"></a>
-                      </div>
-                  </div>
-                  <div>
-                      <div class="uk-card uk-card-small uk-card-default uk-card-hover uk-border-rounded-large uk-overflow-hidden">
-                          <div class="uk-card-media-top uk-inline uk-light">
-                              <img src="https://source.unsplash.com/hiAdjnXZxl8/640x380" alt="Course Title">
-                              <div class="uk-position-cover uk-overlay-xlight"></div>
-                              <div class="uk-position-small uk-position-top-left">
-                                  <span class="uk-label uk-text-bold uk-text-price">$34.00</span>
-                              </div>
-                              <div class="uk-position-small uk-position-top-right">
-                                  <a href="#" class="uk-icon-button uk-like uk-position-z-index uk-position-relative" data-uk-icon="heart"></a>
-                              </div>
-                          </div>
-                          <div class="uk-card-body">
-                              <h3 class="uk-card-title uk-margin-small-bottom">Advanced Portrait Photography</h3>
-                              <div class="uk-text-muted uk-text-small">Linsey Tomkins</div>
-                              <div class="uk-text-muted uk-text-xxsmall uk-rating uk-margin-small-top">
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-margin-small-left uk-text-bold">4.95</span>
-                                  <span>(2,350)</span>
-                              </div>
-                          </div>
-                          <a href="course.html" class="uk-position-cover"></a>
-                      </div>
-                  </div>
-                  <div>
-                      <div class="uk-card uk-card-small uk-card-default uk-card-hover uk-border-rounded-large uk-overflow-hidden">
-                          <div class="uk-card-media-top uk-inline uk-light">
-                              <img src="https://source.unsplash.com/AmEeEB1g3XQ/640x380" alt="Course Title">
-                              <div class="uk-position-cover uk-overlay-xlight"></div>
-                              <div class="uk-position-small uk-position-top-left">
-                                  <span class="uk-label uk-text-bold uk-text-price">$45.00</span>
-                              </div>
-                              <div class="uk-position-small uk-position-top-right">
-                                  <a href="#" class="uk-icon-button uk-like uk-position-z-index uk-position-relative" data-uk-icon="heart"></a>
-                              </div>
-                          </div>
-                          <div class="uk-card-body">
-                              <h3 class="uk-card-title uk-margin-small-bottom">React Development Environment</h3>
-                              <div class="uk-text-muted uk-text-small">Ben Allen</div>
-                              <div class="uk-text-muted uk-text-xxsmall uk-rating uk-margin-small-top">
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-margin-small-left uk-text-bold">4.0</span>
-                                  <span>(6,650)</span>
-                              </div>
-                          </div>
-                          <a href="course.html" class="uk-position-cover"></a>
-                      </div>
-                  </div>
-                  <div>
-                      <div class="uk-card uk-card-small uk-card-default uk-card-hover uk-border-rounded-large uk-overflow-hidden">
-                          <div class="uk-card-media-top uk-inline uk-light">
-                              <img src="https://source.unsplash.com//jQqn81J-PhQ/640x380" alt="Course Title">
-                              <div class="uk-position-cover uk-overlay-xlight"></div>
-                              <div class="uk-position-small uk-position-top-left">
-                                  <span class="uk-label uk-text-bold uk-text-price">$29.00</span>
-                              </div>
-                              <div class="uk-position-small uk-position-top-right">
-                                  <a href="#" class="uk-icon-button uk-like uk-position-z-index uk-position-relative" data-uk-icon="heart"></a>
-                              </div>
-                          </div>
-                          <div class="uk-card-body">
-                              <h3 class="uk-card-title uk-margin-small-bottom">Hatha Yoga for Complete Beginners</h3>
-                              <div class="uk-text-muted uk-text-small">Alex Jensen</div>
-                              <div class="uk-text-muted uk-text-xxsmall uk-rating uk-margin-small-top">
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-rating-filled" data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span data-uk-icon="icon: star; ratio: 0.75"></span>
-                                  <span class="uk-margin-small-left uk-text-bold">3.1</span>
-                                  <span>(1,834)</span>
-                              </div>
-                          </div>
-                          <a href="course.html" class="uk-position-cover"></a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>-->
+
 
 
 <div class="uk-grid-collapse uk-margin-xlarge-top" data-uk-grid  style="background-color: purple; color: white" id="contact">
-    <div class="uk-width-1-2@m uk-padding-large uk-flex uk-flex-middle uk-flex-center" data-uk-height-viewport>
+    <div class="uk-width-1-2@m uk-padding-small uk-flex uk-flex-middle uk-flex-center" data-uk-height-viewport>
         <div class="uk-width-3-4@s">
             <div class="uk-text-center uk-margin-bottom">
                 <a class="uk-logo uk-text-primary uk-text-bold" href="index-2.html"><img src="img/NTECH%20PNG-01.png" width="50px"> </a>
