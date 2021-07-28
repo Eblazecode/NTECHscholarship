@@ -69,7 +69,7 @@
                               We're excited you've interest in us. 💡💻</p>
                           <p>
 
-                              This is a scholarship program organized by N-Tech systems
+                              This is a scholarship program organized by N-TECH systems
                               with the sole aim of training a new set of world class tech talents
                               in software engineering, Data science, networking, Cybersecurity.. etc.
 
@@ -79,7 +79,7 @@
                               .</p>
 
                           <p>
-                              N-Tech talent training is an engineering and leadership training
+                              N-TECH talent training is an IT and leadership training
                               institute of N-TECH systems  that equips high potential individuals with world-class
                               information technology and leadership skills, combined with practical
                               exposure through real-life projects and
