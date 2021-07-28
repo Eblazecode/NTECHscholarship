@@ -64,7 +64,7 @@
               <div class="uk-grid-large" data-uk-grid>
                   <div class="uk-width-expand@m">
                       <div class="uk-article" id="about">
-                          <h3> About - Description </h3>
+                          <h3> About  </h3>
                           <p>
                               We're excited you've interest in us. 💡💻</p>
                           <p>
