@@ -270,10 +270,10 @@
             </div>
             <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex uk-flex-center uk-margin">
                 <div>
-                    <a href="#" data-uk-icon="icon: facebook" class="uk-icon-button uk-icon-button-large facebook"></a>
+                    <a href="https://www.facebook.com/NtechInformationSystems/" data-uk-icon="icon: facebook" class="uk-icon-button uk-icon-button-large facebook"></a>
                 </div>
                 <div>
-                    <a href="#" data-uk-icon="icon: instagram" class="uk-icon-button uk-icon-button-large google-plus"></a>
+                    <a href="https://www.instagram.com/ntechsystems/" data-uk-icon="icon: instagram" class="uk-icon-button uk-icon-button-large google-plus"></a>
                 </div>
                 <div>
                     <a href="#" data-uk-icon="icon: twitter" class="uk-icon-button uk-icon-button-large linkedin"></a>
