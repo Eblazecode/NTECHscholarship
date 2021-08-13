@@ -294,7 +294,8 @@
                 <p> Book a spot and start the learning today</p>
             </div>
             <div class="uk-width-1-1 uk-text-center">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN2GQn1F7JjpBRSHTYHbwKi-kuYHLC-50Xj3nSi71C0rTbBQ/viewform?usp=sf_link" class="uk-button uk-button-primary uk-button-large">Register</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN2GQn1F7JjpBRSHTYHbwKi-kuYHLC-50Xj3nSi71C0
+                rTbBQ/viewform?usp=sf_link" class="uk-button uk-button-primary uk-button-large">Register</a>
             </div>
         </div>
     </div>
