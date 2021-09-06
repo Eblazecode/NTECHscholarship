@@ -7,7 +7,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>N-TECH  | Scholarship 2020</title>
+  <title>N-TECH | Scholarship 2020</title>
   <link rel="shortcut icon" type="image/png" href="img/NTECH%20PNG-01.png" >
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css" />
@@ -33,12 +33,13 @@
                                                          >
 
                                 </span></a>
-                            <h1 class="uk-heading-small uk-letter-spacing-medium">start a new career path  in IT with a scholarship</h1>
+                            <h1 class="uk-heading-small uk-letter-spacing-medium"> Become an IT professional  with world-class
+                            experts</h1>
                             <p class="uk-margin-small-bottom">Acquire the most in demand skills in
                             software engineering, data science, Networking etc </p>
                             <div class="uk-rating">
                                 <div><a class="uk-button uk-button-primary-preserve
-                                 uk-button-large uk-width-1-1@m" href="https://docs.google.com/forms/d/e/1FAIpQLSeN2GQn1F7JjpBRSHTYHbwKi-kuYHLC-50Xj3nSi71C0rTbBQ/viewform?usp=sf_link" style="background-color: purple">Register</a></div>
+                                 uk-button-large uk-width-1-1@m" href="#">Register</a></div>
 
 
                             </div>
@@ -66,16 +67,13 @@
                       <div class="uk-article" id="about">
                           <h3> About  </h3>
                           <p>
-                              We're excited you've interest in us. 💡💻</p>
+                              Yet another day to become world-class!.💡💻</p>
                           <p>
 
-                              This is a scholarship program organized by N-TECH systems
+                              This  N-TECH ICT training  systems
                               with the sole aim of training a new set of world class tech talents
                               in software engineering, Data science, networking, Cybersecurity.. etc.
 
-                              The scholarship is scheduled to hold on the 7th and 14th August 2021.
-                              The test is just to help us identify ready people willing to undergo
-                              a few months of career channelling to information technology.
                               .</p>
 
                           <p>
@@ -101,15 +99,20 @@
                                                       <li> web development</li>
                                                       <li> Mobile app development</li>
                                                       <li> UI/UX </li>
+                                                      <li> Oracle DBA</li>
+                                                      <li> Data Analysis </li>
+
                                                   </ul>
 
                                               </div>
                                               <div>
                                                   <ul class="uk-list uk-margin-small-top">
                                                       <li> Networking /CCNA</li>
+                                                      <li>  BasIC Networking</li>
                                                       <li> hardware engineering</li>
+                                                      <li> ComptiaA+ </li>
                                                       <li> Data science </li>
-                                                      <li> Graphics Design </li>
+
                                                   </ul>
                                               </div>
 
@@ -118,7 +121,8 @@
                                                       <li> Python</li>
                                                       <li> Java </li>
                                                       <li>  computer fundamentals</li>
-                                                      <li>   Javascript </li>
+                                                      <li>   Javascript/React JS</li>
+                                                      <li> Graphics Design </li>
                                                   </ul>
                                               </div>
                                           </div>
@@ -133,15 +137,14 @@
                           </div>
 
                           <h3>Requirements</h3>
-                          <p> The scholarship is open to all and sundry
+                          <p> The N-TECH training is open to all and sundry
                               with a basic knowledge as minimum as a
                               secondary certificate(SSCE, O-level) to get along during the training.
                               It's an immense opportunity for anyone who's ready to take start or switch career
                               path to IT.
                               It's  highly recommended for students in secondary schools, tertiary institutions
                           and graduates alike</p>
-                          <h6>Please come along with an internet enable device  such as;
-                          smartphones, laptops or tablet</h6>
+                          <h6>Before registration please ensure you verify the payment</h6>
                       </div>
 
                           <h3>FAQs</h3>
@@ -207,9 +210,10 @@
                   <div class="uk-width-1-3@m">
                       <div data-uk-sticky="offset: 100; bottom: true; media: @m">
                           <div class="uk-card uk-card-default uk-card-body uk-width-1-1 uk-border-rounded-large">
-                              <h3>FREE registration<del class="uk-text-muted uk-margin-left uk-text-small">paid </del></h3>
-                              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN2GQn1F7JjpBRSHTYHbwKi-kuYHLC-50Xj3nSi71C0rTbBQ/viewform?usp=sf_link" class="uk-button uk-button-primary-preserve uk-button-large uk-width-1-1" style="background-color: mediumorchid">Apply </a>
-                              <p class="uk-margin-remove">This training course offers:</p>
+                              <h3>World-class Training </h3>
+                              <a href="https://forms.gle/owqgJXwLmWda4Hga7" class="uk-button
+                              uk-button-primary-preserve uk-button-large uk-width-1-1" style="background-color: mediumorchid">Enquiry </a>
+                              <p class="uk-margin-remove">Our training course offers:</p>
                               <ul class="uk-list uk-margin-small-top">
                                   <li><span class="uk-margin-small-right" data-uk-icon="clock"></span> IT on-demand skills</li>
                                   <li><span class="uk-margin-small-right" data-uk-icon="users"></span>Highly seasoned experts</li>

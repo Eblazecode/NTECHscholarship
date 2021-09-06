@@ -22,7 +22,8 @@ uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-trans
                         </div>
                     </div>
                     <div class="uk-navbar-item">
-                        <div><a class="uk-button uk-button-primary-light" href="https://docs.google.com/forms/d/e/1FAIpQLSeN2GQn1F7JjpBRSHTYHbwKi-kuYHLC-50Xj3nSi71C0rTbBQ/viewform?usp=sf_link"  style="background-color: mediumorchid; color: white">Sign Up</a></div>
+                        <div><a class="uk-button uk-button-primary-light" href="https://forms.gle/owqgJXwLmWda4Hga7"
+                                style="background-color: mediumorchid; color: white">Enquiry</a></div>
                     </div>
                     <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-toggle><span
                             data-uk-navbar-toggle-icon></span></a>
