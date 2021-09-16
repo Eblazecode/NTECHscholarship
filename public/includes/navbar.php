@@ -4,11 +4,10 @@ uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-trans
         <div class="uk-container">
             <div class="uk-position-z-index" data-uk-navbar>
                 <div class="uk-navbar-left">
-                    <a class="uk-navbar-item uk-logo" href="index-2.html"><img src="img/NTECH%20PNG-01.png" width="80px"></a>
+                    <a class="uk-navbar-item uk-logo" href="#"><img src="img/NTECH%20PNG-01.png" width="80px"></a>
                 </div>
                 <div class="uk-navbar-right">
                     <ul class="uk-navbar-nav uk-visible@m" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 80">
-
                         <li ><a href="#about">About</a></li>
                         <li ><a href="#courses">courses</a></li>
                         <li ><a href="#faqs">FAQs</a></li>

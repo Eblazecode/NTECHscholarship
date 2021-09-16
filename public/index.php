@@ -39,7 +39,7 @@
                             software engineering, data science, Networking etc </p>
                             <div class="uk-rating">
                                 <div><a class="uk-button uk-button-primary-preserve
-                                 uk-button-large uk-width-1-1@m" href="#">Register</a></div>
+                                 uk-button-large uk-width-1-1@m" href="https://forms.gle/jzHQLywg4CwzdPTr5">Register</a></div>
 
 
                             </div>
